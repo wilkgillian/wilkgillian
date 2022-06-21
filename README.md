@@ -1,6 +1,6 @@
 <h1> Hi! My name is Wilk. </h1>
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/wilkgillian">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wilkgillian&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILKGILLIAN&layout=compact&langs_count=7&theme=react" />

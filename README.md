@@ -1,11 +1,13 @@
 <h1> Hi! My name is Wilk Gillian. </h1>
+</br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/wilkgillian">
   <img height="180em" width="100%"  align="center" src="https://github-readme-stats.vercel.app/api?username=wilkgillian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="100%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILKGILLIAN&layout=compact&langs_count=7&theme=dark" />
 
-</div>
+</div> -->
+<p>The most used languages</p>
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
